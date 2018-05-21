@@ -1,3 +1,9 @@
+﻿Camper Leaderboard made by Thien Ly
+
+=======
+
+
+**Check the live version on Codepen** [Codepen](https://codepen.io/duongthienlee/pen/WJmNOz). 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
